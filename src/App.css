@@ -1,0 +1,30 @@
+.site-layout-content {
+  min-height: 280px;
+}
+
+.fonts {
+  font-family: "Itim", cursive;
+  /* font-size: "x-large"; */
+  font-size: "50px";
+}
+
+.fontsv2 {
+  font-family: "Roboto", sans-serif;
+}
+.column-1 {
+  background-repeat: no-repeat;
+}
+.titleHeads {
+  font-family: "Montserrat", sans-serif;
+}
+
+.nav-background {
+  background-color: white;
+}
+
+li {
+  display: inline-block;
+}
+a:link {
+  color: black;
+}
