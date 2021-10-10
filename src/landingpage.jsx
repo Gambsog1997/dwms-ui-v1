@@ -15,6 +15,7 @@ function LandingPage(props) {
       className="fonts"
       style={{
         backgroundColor: "",
+    overflow:"hidden"
       }}
     >
       <NavBar />
